@@ -13,7 +13,7 @@ It don't need any special permissions, all it needs is the intent `SERVER MEMBER
 can enable myself. 
 
 ## Usage
-Plan is to run this daily to produce `list.md` and a copy in `archive` with todays date of this repository.
+Plan is to run this daily to produce `list.md` and a copy in `archive` with today's date of this repository.
 ```
 GUILD_ID=1005603569187160125 BOT_TOKEN=<secret> go run .
 ```
